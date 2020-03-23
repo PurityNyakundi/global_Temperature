@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1584957239701.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "16C3B7CA",
+    "lastKnownWriteTime" : 7957704863871034658,
+    "last_content_update" : 1584957239701,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "17B37B2C",
+        "caption" : "global_temperature",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=global_temperature&cache_key=17B37B2C",
+        "displayedObservations" : 85,
+        "environment" : "",
+        "expression" : "global_temperature",
+        "object" : "global_temperature",
+        "preview" : 0,
+        "totalObservations" : 85,
+        "variables" : 2
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
